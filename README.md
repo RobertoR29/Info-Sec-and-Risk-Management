@@ -8,11 +8,11 @@ Conducted a cybersecurity case study for a non-profit organization, assessing it
 ## My Role
 - Generated a summary of current security posture, including good and harmful practices observed
 - Completed engamement overview: 
--   3-Year Outlook
--   Risk Register
--   Dread
--   Fishbone
--   BIA
+      3-Year Outlook
+      Risk Register
+      Dread
+      Fishbone Diagram
+      Business Impact Analysis
 - Ranked risks baded on criticality
 - Wrote a summary of my findings
 - Generated a Cost Benefit Analysis
