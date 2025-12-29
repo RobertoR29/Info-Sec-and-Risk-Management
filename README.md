@@ -3,8 +3,6 @@
 ## Overview
 Conducted a cybersecurity case study for a non-profit organization, assessing its security posture, identifying top risks, evaluating existing good practices, and performing a cost-benefit analysis for the highest-impact risk.
 
-> **Note:** Full project details and analysis are available in the repository.
-
 ---
 
 ## My Role
@@ -25,3 +23,7 @@ Conducted a cybersecurity case study for a non-profit organization, assessing it
 - Security Risk Assessment
 - Cost–Benefit Analysis
 - Professional Security Reporting
+
+---
+
+> **Note:** Full project details and analysis are available in the repository.
